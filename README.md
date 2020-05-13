@@ -2,7 +2,7 @@
 
 ## How to use this summary
 
-You must have registed with AWS and had a unique link to access the AWS Summit Online website. In case you haven't done that, you can use the link below to establish a valid session with AWS Summit Online 2020:
+You must have registed with AWS AWS Summit Online prior to 13th May 2020 and had a unique link via email to access the website. In case you haven't done that, you can use the link below to establish a valid session with AWS Summit Online 2020:
 
 <https://onlinexperiences.com/launch/UUID.htm?ShowKey=85675&LocaleID=8745&DisableSystemCheck=1&UUID=03500396-F422-4332-B7F0-DC239BCDE124>
 
@@ -18,7 +18,7 @@ Official agenda <https://mkt-anz.s3-ap-southeast-2.amazonaws.com/summit-2020/AWS
 
 Basic knowledge of AWS
 
-- [Introduction to the AWS cloud](<AWSome day/1 - Introduction to the AWS cloud.md>)
+- [Introduction to the AWS cloud](<AWSome day/1 - Introduction to the AWS cloud.md)
 - [Getting started with the cloud](<AWSome day/2 - Getting started with the cloud.md>)
 - [Building in the cloud](<AWSome day/3 - Building in the cloud.md>)
 - [Secure your cloud applications](<AWSome day/4 - Secure your cloud applications.md>)
