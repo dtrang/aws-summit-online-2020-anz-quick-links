@@ -18,7 +18,7 @@ Official agenda <https://mkt-anz.s3-ap-southeast-2.amazonaws.com/summit-2020/AWS
 
 Basic knowledge of AWS
 
-- [Introduction to the AWS cloud](<AWSome day/1 - Introduction to the AWS cloud.md)
+- [Introduction to the AWS cloud](<AWSome day/1 - Introduction to the AWS cloud.md>)
 - [Getting started with the cloud](<AWSome day/2 - Getting started with the cloud.md>)
 - [Building in the cloud](<AWSome day/3 - Building in the cloud.md>)
 - [Secure your cloud applications](<AWSome day/4 - Secure your cloud applications.md>)
